@@ -101,4 +101,4 @@ Completed as a data analytics portfolio project. The analysis and findings are b
 
 **Anggita**
 
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [YOUR-USERNAME](https://github.com/angginaruto)
